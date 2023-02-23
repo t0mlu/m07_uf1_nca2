@@ -1,1 +1,11 @@
-
+{
+  "ducks": [
+    {
+      "rng": 459,
+      "name": "Pato1",
+      "image": ""
+      "phone": "666666666"
+      "web": "en.wikipedia.org"
+    }
+  ]
+}
