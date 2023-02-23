@@ -27,5 +27,14 @@
     	"phone": "622222222"
     	"web": "www.m07uf1duck121.com"
     }
+    {
+    	"rng": 742,
+    	"name": "Duck #742",
+    	"rarity": 4,
+    	"image": "130",
+    	"sellValue": 800
+    	"phone": "99999999999"
+    	"web": "www.m07uf1duck742.com"
+    }
   ]
 }
