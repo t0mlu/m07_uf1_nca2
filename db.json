@@ -8,7 +8,7 @@
       "sellValue": 130
       "phone": "666666666",
       "web": "htps://en.wikipedia.org"
-    },
+    }
     {
     	"rng": 991,
     	"name": "Duck #991",
@@ -17,7 +17,7 @@
     	"sellValue": 356
     	"phone": "611111111"
     	"web": "www.m07uf1duck991.com"
-    },
+    }
     {
     	"rng": 121,
     	"name": "Duck #121",
@@ -26,7 +26,7 @@
     	"sellValue": 76
     	"phone": "622222222"
     	"web": "www.m07uf1duck121.com"
-    },
+    }
     {
     	"rng": 742,
     	"name": "Duck #742",
