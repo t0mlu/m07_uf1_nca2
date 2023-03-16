@@ -6,8 +6,7 @@
       "rarity": 1,
       "image": "003",
       "sellValue": 130,
-      "phone": "666666666",
-      "web": "htps://en.wikipedia.org"
+      "web": "https://en.wikipedia.org/wiki/Rubber_duck"
     },
     {
     	"rng": 991,
@@ -15,8 +14,7 @@
     	"rarity": 2,
     	"image": "117",
     	"sellValue": 356,
-    	"phone": "611111111",
-    	"web": "www.m07uf1duck991.com"
+    	"web": "https://en.wikipedia.org/wiki/Rubber_duck"
     },
     {
     	"rng": 121,
@@ -24,8 +22,7 @@
     	"rarity": 0,
     	"image": "001",
     	"sellValue": 76,
-    	"phone": "622222222",
-    	"web": "www.m07uf1duck121.com"
+    	"web": "https://en.wikipedia.org/wiki/Rubber_duck"
     },
     {
     	"rng": 742,
@@ -33,8 +30,7 @@
     	"rarity": 4,
     	"image": "130",
     	"sellValue": 800,
-    	"phone": "99999999999",
-    	"web": "www.m07uf1duck742.com"
+    	"web": "https://en.wikipedia.org/wiki/Rubber_duck"
     }
   ]
 }
