@@ -6,6 +6,7 @@
       "rarity": 1,
       "value": 123.45,
       "image": "002",
+      "url": "https://en.wikipedia.org/wiki/Rubber_duck",
       "seed": 327843
     },
     {
@@ -14,6 +15,7 @@
       "rarity": 3,
       "value": 936.12,
       "image": "045",
+      "url": "https://en.wikipedia.org/wiki/Rubber_duck",
       "seed": 92583
     }
   ]
