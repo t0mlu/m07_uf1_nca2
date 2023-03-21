@@ -5,7 +5,7 @@
       "name" "Pato 1",
       "rarity": 1,
       "value": 123.45
-      "image": 002,
+      "image": "002",
       "seed": 327843
     },
     {
@@ -13,40 +13,8 @@
       "name" "Pato 2",
       "rarity": 3,
       "value": 936.12
-      "image": 045,
+      "image": "045",
       "seed": 92583
     },
-    /*{
-      "rng": 459,
-      "name": "Pato1",
-      "rarity": 1,
-      "image": "003",
-      "sellValue": 130,
-      "web": "https://en.wikipedia.org/wiki/Rubber_duck"
-    },
-    {
-    	"rng": 991,
-    	"name": "Duck #991",
-    	"rarity": 2,
-    	"image": "117",
-    	"sellValue": 356,
-    	"web": "https://en.wikipedia.org/wiki/Rubber_duck"
-    },
-    {
-    	"rng": 121,
-    	"name": "Duck #121",
-    	"rarity": 0,
-    	"image": "001",
-    	"sellValue": 76,
-    	"web": "https://en.wikipedia.org/wiki/Rubber_duck"
-    },
-    {
-    	"rng": 742,
-    	"name": "Duck #742",
-    	"rarity": 4,
-    	"image": "130",
-    	"sellValue": 800,
-    	"web": "https://en.wikipedia.org/wiki/Rubber_duck"
-    }*/
   ]
 }
