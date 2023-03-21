@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Pato 1",
       "rarity": 1,
-      "value": 123.45
+      "value": 123.45,
       "image": "002",
       "seed": 327843
     },
@@ -12,9 +12,9 @@
       "id": 2,
       "name": "Pato 2",
       "rarity": 3,
-      "value": 936.12
+      "value": 936.12,
       "image": "045",
       "seed": 92583
-    },
+    }
   ]
 }
