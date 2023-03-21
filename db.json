@@ -1,6 +1,22 @@
 {
   "ducks": [
     {
+      "id": 1,
+      "name" "Pato 1",
+      "rarity": 1,
+      "value": 123.45
+      "image": 002,
+      "seed": 327843
+    },
+    {
+      "id": 2,
+      "name" "Pato 2",
+      "rarity": 3,
+      "value": 936.12
+      "image": 045,
+      "seed": 92583
+    },
+    /*{
       "rng": 459,
       "name": "Pato1",
       "rarity": 1,
@@ -31,6 +47,6 @@
     	"image": "130",
     	"sellValue": 800,
     	"web": "https://en.wikipedia.org/wiki/Rubber_duck"
-    }
+    }*/
   ]
 }
