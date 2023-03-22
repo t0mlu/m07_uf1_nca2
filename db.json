@@ -5,7 +5,7 @@
       "name": "Pato 1",
       "rarity": 1,
       "value": 123.45,
-      "image": "002",
+      "image": "pato_002",
       "url": "https://en.wikipedia.org/wiki/Rubber_duck",
       "seed": 327843
     },
@@ -14,9 +14,18 @@
       "name": "Pato 2",
       "rarity": 3,
       "value": 936.12,
-      "image": "045",
+      "image": "pato_045",
       "url": "https://en.wikipedia.org/wiki/Rubber_duck",
       "seed": 92583
+    },
+    {
+      "id": 3,
+      "name": "Pato 3,
+      "rarity": 2,
+      "value": 81.67,
+      "image": "pato_019",
+      "url": "https://en.wikipedia.org/wiki/Rubber_duck",
+      "seed": 1238
     }
   ]
 }
